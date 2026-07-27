@@ -1,0 +1,6 @@
+{
+  "name": "Energy Forecaster",
+  "description": "LPG and Electricity forecasting based on Excel engine models with AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
